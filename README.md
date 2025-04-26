@@ -4,9 +4,9 @@ This projects provides an implementation of the generation of a subspace of a te
 
 ## 📁 Project Structure
 
-├── gt_patterns.py # Core algorithm implementation 
-├── utils.py # Utility/helper functions 
-├── example.py # Example script using the algorithm 
+├── gt_patterns.py # Core algorithm implementation \
+├── utils.py # Utility/helper functions \
+├── example.py # Example script using the algorithm \
 ├── requirements.txt # Python dependencies
 
 ## 🧪 Example Explained
