@@ -25,11 +25,11 @@ Follow the steps below to set up and run the project.
 
 ### 1. Clone the Repository
 
-git clone https://github.com/AndreyK19/quiver_subspace.git
+git clone https://github.com/AndreyK19/quiver_subspace.git \
 cd quiver_subspace
 
 ### 2. Create and Activate a Virtual Environment
-python -m venv .venv
+python -m venv .venv \
 .venv\Scripts\activate
 
 ### 3. Install Dependencies
